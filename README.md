@@ -1,0 +1,2 @@
+# An-Automated-Method-for-Creating-Understandable-Patient-Content-using-Medical-Texts-with-LLM
+This repository contains the implementation and experimental code for automated medical text simplification using transformer-based models including T5, BART, and BioBART with advanced techniques like Retrieval-Augmented Generation (RAG), Reinforcement Learning (RL), and Chain-of-Thought (CoT) reasoning.
